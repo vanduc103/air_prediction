@@ -1,2 +1,1 @@
-# air_prediction
-Air Pollution Interpolation and Prediction
+This is the source-code for citywide Air Pollution Interpolation and Prediction
